@@ -1,0 +1,25 @@
+{
+  "field": {
+    "form-validator": {
+      "firebase": {
+        "user-mismatch": "Invalid email format",
+        "user-not-found": "No users were found with the information entered.",
+        "invalid-credential": "An erreur has occured, please start again.",
+        "email-already-in-use": "This email is already being used.",
+        "invalid-email": "Invalid email format",
+        "wrong-password": "The entered password is wrong",
+        "weak-password": "The entered password is weak",
+        "invalid-phone-number": "Invalid telephone number format",
+        "too-many-attempts": "oo many attempts to connect, please try again later",
+        "operation-not-allowed": "unauthorized operation",
+        "user-disabled": "Your account has been deactivated by the administrateur.",
+        "invalid-verification-code": "The entered verification code is not valid.",
+        "invalid-verification-id": "An erreur has occured, please start again.",
+        "session-expired": "Expired verification code",
+        "default": "A connection problem has occurred. Check your Internet connection",
+        "error": "An erreur has occured, please try again.",
+        "account-exists-with-different-credential": "An account already exists with different credential."
+      }
+    }
+  }
+}

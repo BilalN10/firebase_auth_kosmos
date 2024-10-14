@@ -1,0 +1,25 @@
+{
+  "field": {
+    "form-validator": {
+      "firebase": {
+        "user-mismatch": "Format email invalide",
+        "user-not-found": "Aucun utilisateur n’a été trouvé avec les informations renseignées.",
+        "invalid-credential": "Une erreur est survenue, veuillez recommencer.",
+        "email-already-in-use": "Cette adresse email est déjà utilisée.",
+        "invalid-email": "Format email invalide",
+        "wrong-password": "Le mot de passe saisi est erroné.",
+        "weak-password": "Le mot de passe saisi est trop faible",
+        "invalid-phone-number": "Format téléphone invalide",
+        "too-many-attempts": "Trop de tentative de connexion, merci d'essayer plus tard",
+        "operation-not-allowed": "Opération non autorisée",
+        "user-disabled": "Votre compte à été désactivé par l’administrateur.",
+        "invalid-verification-code": "Le code de vérification saisi n’est pas valide.",
+        "invalid-verification-id": "Une erreur est survenue, veuillez recommencer.",
+        "session-expired": "Code de vérification expiré.",
+        "default": "Un problème de connexion est survenu. Vérifiez votre connexion Internet",
+        "error": "Une erreur est survenue, veuillez rééssayer.",
+        "account-exists-with-different-credential": "Un compte existé déjà avec c'est identifiant."
+      }
+    }
+  }
+}
